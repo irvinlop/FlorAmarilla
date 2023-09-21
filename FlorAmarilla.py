@@ -1,7 +1,9 @@
 from turtle import *
 import colorsys
 
-# Agregar el texto en la cabecera
+PARA LAS MEJORES AMIGUITAS QUE HE TENIDO
+GRACIAS POR TODO
+LAS QUIERO MUCHO
 header_text = "PROGRAMEX # BY PROGRAMEX"
 color("white")  # Color del texto
 penup()
